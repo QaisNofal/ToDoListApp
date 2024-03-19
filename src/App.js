@@ -14,7 +14,7 @@ import TaskItemInput from "./TaskItemInput";
 
 function App() {
 
-  
+  /*model */
   const [modal, setModal] = useState(false);
 
   /*card name */
