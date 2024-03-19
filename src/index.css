@@ -1,0 +1,31 @@
+.header{
+  text-align: center;
+  height: 200px;
+  width: 100%;
+  background: #E9EEF6;
+  padding-top: 50PX;
+  
+}
+.header button{
+  margin-top: 20px;
+}
+
+.task-container {
+  overflow-x: auto;
+ margin: 20px;
+ 
+}
+
+.card{
+  width:350px ;
+} 
+
+.card-wrapper {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.card-column {
+  flex: 0 0 auto;
+  margin-right: 10px; /* Adjust spacing between cards */
+}
